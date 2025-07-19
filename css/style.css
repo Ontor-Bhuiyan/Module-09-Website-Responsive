@@ -39,6 +39,7 @@ header{
 .navbar{
     margin: 0 auto;
     max-width: 1140px;
+    padding: 50px 0 100px;
     justify-content: space-between;
 }
 .navbar .main-logo{
@@ -62,7 +63,7 @@ header{
     /* navbar styles */
     .navbar{
         text-align: center;
-        font-size: 30px;
+        padding: 20px 0 50px;
         flex-direction: column;
     }
     .navbar-nav{
