@@ -151,6 +151,9 @@ header{
 /* our-features styles */
 
 /* facts styles */
+.facts{
+    margin-bottom: 180px;
+}
 .facts-title{
     font-size: 45px;
     font-weight: 700;
@@ -223,6 +226,9 @@ header{
     }
 
     /* facts style */
+    .facts{
+        margin-bottom: 50px;
+    }
     .facts-title{
         padding: 0 20px;
     }
@@ -275,6 +281,9 @@ header{
     }
 
     /* facts style */
+    .facts{
+        margin-bottom: 50px;
+    }
     .facts-title{
         padding: 0 20px;
     }
